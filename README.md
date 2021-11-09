@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 Welcome to my Github page! Feel free to browse my repositories to see what I've worked on.
 
 About Me:
@@ -10,4 +10,3 @@ About Me:
 - 💬 Ask me about anything!
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/preston-harrod-6959701b8/
 - ⚡ Fun facts: I love hiking, cooking, and gaming!
--->
